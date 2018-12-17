@@ -1,0 +1,27 @@
+i.icon {
+    font-size: 1.5em;
+}
+
+.container.main {
+    margin-top: 7.0em;
+}
+
+#delete {
+    display: inline;
+}
+
+.show-description {
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+
+.show-date {
+    margin-top: 10px;
+    border-top: 1px solid rgba(34,36,38,.15);
+    padding-top: 20px;
+    font-style: italic;
+}
+
+.show-image {
+    margin-bottom: 30px;
+}
